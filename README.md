@@ -1,5 +1,7 @@
 # Restaurant Website
 
+https://master--beautiful-stardust-6bf769.netlify.app/
+
 This is a simple restaurant website template built using HTML, CSS, and JavaScript. It showcases the restaurant's menu, location, contact information, and other relevant details.
 
 ## Features
